@@ -7,7 +7,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 10vw;
+    width: 120px;
     background-color: bisque;
     position: fixed;
     height: 100%;
@@ -27,7 +27,7 @@ nav li a {
 
 div {
     
-    margin-left:10%;
+    margin-left:130px;
     padding: 1px 16px;
 }
 
@@ -68,7 +68,7 @@ div {
     display: flex;
     flex-wrap: wrap;
     border: 1px red solid;
-    margin-left: 12vw;
+    margin-left: 130px;
     margin-right: 3vw;
 }
 
